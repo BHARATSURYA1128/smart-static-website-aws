@@ -66,6 +66,7 @@ Smart-Static-Website/
 🔐 Sample S3 Bucket Policy
 json
 Copy code
+```bash
 {
   "Version": "2012-10-17",
   "Statement": [
@@ -79,6 +80,7 @@ Copy code
   ]
 }
 
+```
 ---
 ```
 ```
