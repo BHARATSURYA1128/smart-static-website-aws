@@ -59,6 +59,7 @@ Smart-Static-Website/
 └── .gitignore
 
 ---
+```
 
 
 
@@ -78,13 +79,17 @@ Copy code
   ]
 }
 
+---
+```
+```
+
 # 🚀 Smart Static Website – Manual Deployment Guide
 
 This project demonstrates how to manually deploy a **fully functional static website** using **Amazon S3**, **CloudFront**, and the **AWS CLI** — all within the AWS Free Tier!
 
 ---
 ```
-
+```
 ## 🔧 Step 1: Configure AWS CLI
 
 ```bash
