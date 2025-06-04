@@ -52,7 +52,7 @@ This project demonstrates how to host a static website using **Amazon S3**, dist
 Smart-Static-Website/
 ├── assets/                  # Images and demo screenshots
 │   └── demo-screenshot.png
-├── architecture.png         # AWS infrastructure diagram
+|   |__ architecture.png         # AWS infrastructure diagram
 ├── portfolio.pdf            # Project overview (PDF format)
 ├── src/                     # Your actual static site files
 ├── README.md
