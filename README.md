@@ -24,7 +24,7 @@ This project demonstrates how to host a static website using **Amazon S3**, dist
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](assets/architecture.png)
 
 ---
 
@@ -42,7 +42,7 @@ This project demonstrates how to host a static website using **Amazon S3**, dist
 
 ## 📸 Demo Screenshot
 
-![Demo Screenshot](assets/demo-screenshot.png)
+![Demo Screenshot](assets/demo.png)
 
 ---
 
