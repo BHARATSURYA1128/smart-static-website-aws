@@ -2,7 +2,7 @@
 
 A secure, scalable, and cost-effective static website hosted entirely on **AWS Free Tier services**. Designed and implemented by **Bharat Surya Jithuga** to showcase cloud skills with real-world infrastructure.
 
-🔗 **Live Demo:** [Smart Static Website](https://d1axzls1oymsy2.cloudfront.net)
+🔗 **Live Demo:** [Smart Static Website](https://dr48176xbcono.cloudfront.net/)
 
 ---
 
