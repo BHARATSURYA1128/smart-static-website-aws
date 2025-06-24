@@ -81,44 +81,7 @@ Copy code
 }
 
 ```
----
 
-
-# 🚀 Smart Static Website – Manual Deployment Guide
-
-This project demonstrates how to manually deploy a **fully functional static website** using **Amazon S3**, **CloudFront**, and the **AWS CLI** — all within the AWS Free Tier!
-
----
-
-
-## 🔧 Step 1: Configure AWS CLI
-
-```bash
-aws configure
-# Enter AWS Access Key, Secret Key, Region (e.g., ap-south-1), and output format
-```
-
----
-
-## 📤 Step 2: Upload to S3
-
-```bash
-aws s3 sync ./src s3://your-bucket-name --delete
-```
-
-> This uploads your site and deletes outdated files from the bucket.
-
----
-
-## 🔄 Step 3: Invalidate CloudFront Cache (Optional)
-
-```bash
-aws cloudfront create-invalidation \
-  --distribution-id YOUR_DISTRIBUTION_ID \
-  --paths "/*"
-```
-
----
 
 ## 🎓 What I Learned from This Project
 
