@@ -39,7 +39,7 @@ I uploaded all my website files to the bucket. Initially, I faced a 403 Forbidde
 
 To fix this, I added the following bucket policy to allow public read access:  
 
-'''bash
+````bash
 {  
   "Version": "2012-10-17",  
   "Statement": [  
@@ -56,7 +56,7 @@ To fix this, I added the following bucket policy to allow public read access:
     }  
   ]  
 }  
-'''
+````
 
 Once done, the site became publicly accessible via the S3 static website URL.  
 ### Step 4: Integrated with CloudFront for CDN & HTTPS  
