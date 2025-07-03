@@ -99,3 +99,22 @@ This will introduce some dynamic backend logic and elevate my cloud skills to th
 
 
 Happy deploying! ☁️🚀
+
+
+![create s3 bucket](images/s3.jpeg)
+
+
+![ERROR image of index.html](images/ERROR.jpeg)
+
+
+![Added Bucket policy for objects](images/BucketPolicy.jpeg)
+
+
+![after hosted website using s3 end point](images/NotSecure.jpeg)
+
+
+![created cloudfront distribution](images/cloudfront.jpeg)
+
+
+![final output of secure website](images/final.jpeg)
+
