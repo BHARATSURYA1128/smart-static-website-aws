@@ -101,20 +101,20 @@ This will introduce some dynamic backend logic and elevate my cloud skills to th
 Happy deploying! ☁️🚀
 
 
-![create s3 bucket](images/s3.jpeg)
+![create s3 bucket](images/s3.png)
 
 
-![ERROR image of index.html](images/ERROR.jpeg)
+![ERROR image of index.html](images/ERROR.png)
 
 
-![Added Bucket policy for objects](images/BucketPolicy.jpeg)
+![Added Bucket policy for objects](images/BucketPolicy.png)
 
 
-![after hosted website using s3 end point](images/NotSecure.jpeg)
+![after hosted website using s3 end point](images/NotSecure.png)
 
 
-![created cloudfront distribution](images/cloudfront.jpeg)
+![created cloudfront distribution](images/cloudfront.png)
 
 
-![final output of secure website](images/final.jpeg)
+![final output of secure website](images/final.png)
 
