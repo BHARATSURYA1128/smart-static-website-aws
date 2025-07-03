@@ -23,8 +23,8 @@ I organized the content in a simple directory structure:
 The site is purely static, with no backend logic.  
 ### Step 2: Created the S3 Storage Bucket  
 I created a new S3 bucket with:  
-- A unique name: my-first-static-website-[XYZ]  
-- Region: US East (N. Virginia)  
+- A unique name: bharat-surya-jithuga-portfolio  
+- Region: AP south (mumbai-1)  
 - Public Access: Disabled block public access  
 - Static Website Hosting: Enabled  
 
