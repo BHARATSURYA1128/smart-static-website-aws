@@ -107,10 +107,10 @@ Happy deploying! ☁️🚀
 ![ERROR image of index.html](images/ERROR.png)
 
 
-![Added Bucket policy for objects](images/BucketPolicy.png)
+![Added Bucket policy for objects](images/Bucket%Policy.png)
 
 
-![after hosted website using s3 end point](images/NotSecure.png)
+![after hosted website using s3 end point](images/Not%Secure.png)
 
 
 ![created cloudfront distribution](images/cloudfront.png)
