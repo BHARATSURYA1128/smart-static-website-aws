@@ -17,9 +17,7 @@ I started by creating a minimal static website using:
 
 I organized the content in a simple directory structure:  
 /index.html  
-/error.html  
-/css/  
-/js/  
+/error.html   
 /images/  
 
 The site is purely static, with no backend logic.  
