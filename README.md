@@ -2,6 +2,8 @@
 Welcome to my first hands-on AWS Cloud project! I successfully deployed a high-performance, globally accessible static website using Amazon S3 and CloudFront. This project gave me a strong foundation in AWS services and best practices for cloud hosting.  
 ## 🧠 Project Overview  
 This project involved deploying a static website—composed entirely of HTML, CSS, JavaScript, and images—with no server-side code. Static sites are blazing fast, secure, scalable, and extremely cost-effective to host on AWS.  
+
+![architecture image](architecture.png)
 ### 🔑 Key AWS Services Used:  
 - Amazon S3 – Used for hosting the website files.  
 - Amazon CloudFront – Used as a CDN to cache and deliver content globally.  
